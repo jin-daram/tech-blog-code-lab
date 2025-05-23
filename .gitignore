@@ -1,2 +1,5 @@
 /**/node_modules
 /**/logs
+nestjs-logging-study/dist
+.DS_Store
+dist/
