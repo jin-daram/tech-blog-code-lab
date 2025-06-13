@@ -1,5 +1,11 @@
+# JS & TS Ignore
 /**/node_modules
 /**/logs
 /**/dist
 .DS_Store
 dist/
+
+# Java & Kotlin Ignore
+/**/build
+/**/.idea
+/**/.gradle
